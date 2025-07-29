@@ -9,8 +9,8 @@
 
 ## Project Overview
 
-- **Company:** Fictional enterprise inspired by Wayne Enterprises (DC Comics)  
-- **Role:** Data Analyst  
+- **Company:** Fictional enterprise inspired by Insyra Enterprises (DC Comics)  
+- **Role:** Business Analyst  
 - **Deliverables:**  
   - 📑 Data narrative (newspaper-style)  
   - 📊 Interactive dashboards  
