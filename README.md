@@ -66,7 +66,7 @@ The dashboard is organized into the following professional sections:
 ## 💡 Sample Insights
 
 > **💸 Financial Strain Visible in 2023**  
-> Enterprises earned $54.68K in revenue, but high operating costs ($40.46K) slashed net profit to just $13.46K— resulting in a thin 24.6% margin
+> Enterprises earned $54.68K in revenue, but high operating costs ($40.46K) slashed net profit to just $13.46K which resulting in a thin 24.6% margin
 
 > **🔬 R&D Portfolio Decline**  
 > Despite high investments, active R&D projects decreased 40%, indicating a bottleneck in innovation.
@@ -83,7 +83,10 @@ This project shows how to combine data storytelling, dashboard design, and predi
 Insyra Enterprises is growing in revenue but bleeding efficiency, and unless divisional gaps and rising costs are addressed, long-term profitability remains at risk. 
 
 
-**#PowerBI #DashboardDesign #BusinessIntelligence #ExecLens #DataAnalytics #DataStorytelling #PowerQuery #DAX #FictionalCaseStudy #HRAnalytics #SupplyChainBI #FinanceBI #R&DInsights**
+
+
+
+**#PowerBI #DashboardDesign #BusinessIntelligence  #DataAnalytics #DataStorytelling #PowerQuery #DAX #FictionalCaseStudy**
 
 
 
