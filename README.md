@@ -24,7 +24,7 @@
 | **Power BI**       | Dashboard design & data visualization        |
 | **Power Query Editor** | Data transformation & cleaning           |
 | **DAX (Data Analysis Expressions)** | KPIs, measures, and calculated columns |
-| **Excel** *(if used)* | Dataset exploration and initial review   |
+| **Excel**  | Dataset exploration and initial review   |
 | **PDF/Word**       | Data narrative article formatting            |
 | **GitHub**         | Version control and project sharing          |
 
