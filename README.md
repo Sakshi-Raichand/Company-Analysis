@@ -3,7 +3,7 @@
 💼Welcome to the **Insyra Aalysis Report**, a fictional case study set in a DC Universe-style enterprise. In this project, I play the role of a **Business Analyst** reporting directly to the new CEO of a multinational corporation, analyzing the entire organization to answer these key questions:
 
 > 🔍 *"What is happening in the company?"*  
-> 🔮 *"What is going to happen?"*
+> 🔮 *"What is going to happen?"*                                                                                                                                                                          
 > 📈 *"What can we do for future growth?"*
 
 
